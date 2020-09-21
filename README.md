@@ -1,4 +1,4 @@
 # Temporal-Planning
-Run the planner with the following command:
+Run the planner by executing the following command on terminal:
 
 ./popf domain.pddl problem.pddl
